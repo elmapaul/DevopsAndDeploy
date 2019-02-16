@@ -1,4 +1,4 @@
-// This script helps to fetch data from a known API source
+// This script helps to fetch data from a popular API source
 // Only for personal use!
 // P.S. Break or exit of process should be done manually (Ctr + C)
 // Date: 17.02.19
