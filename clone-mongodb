@@ -1,0 +1,4 @@
+// DUMP
+mongodump /uri:mongodb+srv://ADMIN_NAME:ADMIN_PASS@[SERVER]/[DB_NAME] (must be run with stdin like /u username /p password for security reasons)
+// CLONE
+mongorestore ./dump/[DB_NAME] /uri:mongodb+srv://ADMIN_NAME:ADMIN_PASS@[SERVER]/[NEW_DB_NAME] (must be run with stdin like /u username /p password)
