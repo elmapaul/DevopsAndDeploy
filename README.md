@@ -1,1 +1,1 @@
-Scripts to make life easier for Developers
+Used solutions for Automation work
