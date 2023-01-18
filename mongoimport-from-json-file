@@ -1,0 +1,1 @@
+./mongoimport.exe --uri mongodb+srv://[username]:[password]@[server].mongodb.net/[db_name] --db [db_name] --collection [collection_name] --file [filename].json --jsonArray
